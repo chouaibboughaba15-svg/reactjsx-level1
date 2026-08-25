@@ -1,5 +1,5 @@
 
-
+import './MainContent.css';
 
 
 const Main = ({pageName}) => {
