@@ -1,4 +1,4 @@
-footer {
+.myfooter footer {
     background-color: #1b1b1b;
 
     padding: 20px 0;
@@ -6,6 +6,6 @@ footer {
     font-size: 18px;
 }
 
-.ali{
+.myfooter .ali{
     background-color: aqua;
 }
