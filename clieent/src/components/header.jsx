@@ -4,7 +4,7 @@ import './Header.css'
 
 const Header = () => {
   return (
-    <div>
+    <div className="myheader">
       <header className="hide-when-mobile ali">
         <h1>
           <Link to=" " >Courses 4 Arab</Link> 
